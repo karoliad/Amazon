@@ -3,6 +3,10 @@ package com.company;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+
+// TEST fredag 17.01.20
+
+
 public class Main {
     public static void main(String[] args) {
 
